@@ -1,0 +1,26 @@
+<annotation>
+	<folder>karik_rap_viet</folder>
+	<filename>a079a7a79c.jpg</filename>
+	<path>/Users/admin/Desktop/images/karik_rap_viet/a079a7a79c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>990</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>karik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>298</ymin>
+			<xmax>389</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>suboi_rap_viet</folder>
+	<filename>95f32a5ae6.jpg</filename>
+	<path>/Users/admin/Desktop/images/suboi_rap_viet/95f32a5ae6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>454</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>karik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>13</ymin>
+			<xmax>242</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

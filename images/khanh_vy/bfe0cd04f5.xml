@@ -1,0 +1,26 @@
+<annotation>
+	<folder>khanh_vy</folder>
+	<filename>bfe0cd04f5.jpg</filename>
+	<path>/Users/admin/Desktop/images/khanh_vy/bfe0cd04f5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>813</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>karik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>170</ymin>
+			<xmax>565</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

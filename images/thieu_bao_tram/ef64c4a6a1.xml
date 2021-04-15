@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thieu_bao_tram</folder>
+	<filename>ef64c4a6a1.jpg</filename>
+	<path>/Users/admin/Desktop/images/thieu_bao_tram/ef64c4a6a1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>445</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>karik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>10</ymin>
+			<xmax>542</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

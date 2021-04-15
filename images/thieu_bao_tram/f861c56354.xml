@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thieu_bao_tram</folder>
+	<filename>f861c56354.jpg</filename>
+	<path>/Users/admin/Desktop/images/thieu_bao_tram/f861c56354.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>karik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>18</ymin>
+			<xmax>257</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

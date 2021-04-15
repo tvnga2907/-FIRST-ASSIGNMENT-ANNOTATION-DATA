@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thieu_bao_tram</folder>
+	<filename>82132f38cf.jpg</filename>
+	<path>/Users/admin/Desktop/images/thieu_bao_tram/82132f38cf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>819</width>
+		<height>553</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>karik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>534</xmin>
+			<ymin>6</ymin>
+			<xmax>736</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

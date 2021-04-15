@@ -1,0 +1,26 @@
+<annotation>
+	<folder>karik_rap_viet</folder>
+	<filename>c158635cdb.jpg</filename>
+	<path>/Users/admin/Desktop/images/karik_rap_viet/c158635cdb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1092</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>karik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>713</xmin>
+			<ymin>34</ymin>
+			<xmax>852</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

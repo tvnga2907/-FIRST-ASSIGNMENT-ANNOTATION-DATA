@@ -1,0 +1,26 @@
+<annotation>
+	<folder>son_tung</folder>
+	<filename>a4d3aa1e69.jpg</filename>
+	<path>/Users/admin/Desktop/images/son_tung/a4d3aa1e69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>karik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>6</ymin>
+			<xmax>312</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>
